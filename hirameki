@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-TW">
+<head>
+	<meta charset="UTF-8">
+	<title>ポケットランド教學-團杯</title>
+	<link rel="stylesheet" href="static/css/style.css">
+	<link rel="stylesheet" href="static\fontawesome-free-5.0.6\web-fonts-with-css\css\fontawesome-all.css">
+	<script src="static/js/jquery-3.2.1.min.js"></script>
+	<script src="static/js/all.js"></script>
+</head>
+<body>
+	<div class="warp">
+		<div class="head">
+			<div class="menu">
+				<ul>
+					<li><a href="#">基本</a></li>
+					<li><a href="#">捕獲</a></li>
+					<li><a href="#">納品</a></li>
+					<li><a href="hirameki.html active">團杯</a></li>
+					<li><a href="#">長草期活動</a></li>
+				</ul>
+			</div>
+			<div class="nav">
+				<ul>
+					<li><a href="#Anchor1">團杯</a></li>
+					<li><a href="#Anchor2">玩法</a></li>
+					<li><a href="#Anchor3">NPC</a></li>
+					<li><a href="#Anchor4">提案</a></li>
+					<li><a href="#Anchor5">提案體力</a></li>
+					<li><a href="#Anchor6">團員幫忙</a></li>
+					<li><a href="#Anchor7">全體玩家幫忙</a></li>
+					<li><a href="#Anchor8">魅力</a></li>
+					<li><a href="#Anchor9">團杯公會設施</a></li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="infomation">
+			<h2>團杯(靈光一閃、提案)</h2>
+			<ul>
+				<div class="infomation_tip" id="Anchor1">				
+					<li><i class="far fa-star"></i>團杯：</li>
+					<p>又稱「靈光一閃」、「提案」，於ポケットランド中相對較與團隊有關的活動，有活動特殊的團設施與團員間互相幫忙，此外活動結束後依照團員點數總和，對應點數將會有團獎章。</p>
+				</div>
+
+				<div class="infomation_tip" id="Anchor2">
+					<li><i class="far fa-star"></i>玩法：</li>					
+					<p>在給別人澆水時將會跳出隨機NPC有靈光一現的問題，而玩家需要向他們進行「提案」。</p>
+				</div>
+
+				<div class="infomation_tip" id="Anchor3">
+					<li><i class="far fa-star"></i>NPC：</li>
+					<p>共有5種NPC，分別為N、R、SR、SSR、SP，各有不同的血量，玩家須對NPC進行「提案(攻擊)」，來將NPC的血量消耗至0。</p>
+					<p>玩家每打死一次NPC，該NPC將會升級，升級後的NPC血量會增加，N、R兩者可升至LV.20、SR可至LV.15、SSR、SP最高LV.5。</p>
+					<p>N、R、SR、SP可於澆水招喚出來，但SP出現機率極低，而SSR則是需N、R、SR滿等候再由「玩家本人」尾刀，隨機出現。</p>
+				</div>
+				
+				<div class="infomation_tip" id="Anchor4">
+					<li><i class="far fa-star"></i>提案：</li>
+					<p>首次「提案」時，將會是免消耗「提案體力」進行提案。
+		(可以當作以魅力進行對NPC攻擊)。</p>
+					<p>首次提案後，將會進入另個提案畫面，在該畫面中玩家可以選擇請求「團員幫忙」或「全體玩家幫忙」。</p>
+					<p>也可以選擇使用「消耗1點提案體力」進行「魅力」1倍的攻擊或「消耗2點提案體力」進行3倍魅力攻擊，或者使用「書本」進行魅力10倍攻擊。</p>
+				</div>
+									
+				
+				<div class="infomation_tip" id="Anchor5">
+					<li><i class="far fa-star"></i>提案體力：</li>
+					<p>團盃活動特殊體力，滿5點，每10分鐘回復1點，可使用「小藥」、「大藥」進行回復。</p>	
+				</div>
+				
+				<div class="infomation_tip" id="Anchor6">
+					<li><i class="far fa-star"></i>團員幫忙：</li>
+					<p>可以分享該NPC讓團員們進行協助，團員幫忙將會有固定額外的加成，一定時間內可堆疊加成。</p>
+				</div>
+
+				<div class="infomation_tip" id="Anchor7">
+					<li><i class="far fa-star"></i>全體玩家幫忙：</li>
+					<p>隨機分享給20位玩家幫忙，沒有固定加成，但有可能分享到破萬魅力的課長幫忙。</p>
+				</div>
+				
+				<div class="infomation_tip" id="Anchor8">
+					<li><i class="far fa-star"></i>魅力：</li>
+					<p>可以透過打死NPC獲得的金幣抽出道具增加，使用金月亮或金星星、銀月亮或銀星星(看那次活動用甚麼換)，抽當次活動推出的轉蛋來增加魅力</p>
+				
+				</div>
+				<div class="infomation_tip" id="Anchor9">
+					<li><i class="far fa-star"></i>團杯公會設施：</li>
+					<p>團杯特有期間設施，於提案時將會隨機出現攻擊加成，設施提升越高機率越高，所以有多的素材道具可以幫忙升級設施喔~另設施會於該活動結束後消失。</p>
+				</div>
+			</ul>
+		</div>
+		
+	</div>
+</body>
+</html>
